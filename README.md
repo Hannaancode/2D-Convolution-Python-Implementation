@@ -1,0 +1,1 @@
+This program demonstrates the implementation of a 2D convolution operation using NumPy. Convolution is a fundamental operation in image processing, often used in neural networks for feature extraction. The program takes an input matrix (which can represent an image) and a kernel (or filter) matrix, then performs a convolution operation to produce an output matrix.
